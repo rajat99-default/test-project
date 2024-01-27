@@ -1,0 +1,23 @@
+{
+    "students": [
+      {
+        "name": "John Doe",
+        "roll_no": "A12345",
+        "id": "1",
+        "fees": 1500
+      },
+      {
+        "name": "Jane Smith",
+        "roll_no": "B54321",
+        "id": "2",
+        "fees": 1700
+      },
+      {
+        "name": "Alice Johnson",
+        "roll_no": "C98765",
+        "id": "3",
+        "fees": 1600
+      }
+    ]
+  }
+  

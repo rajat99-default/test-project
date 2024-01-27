@@ -1,0 +1,28 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 10%;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #61dafb;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
