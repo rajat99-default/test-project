@@ -1,9 +1,3 @@
-// =======> (Very important topic)<=========
-
-
-// ======>>>>Fetch large data from given URL and show in React page with the help of axios in React :-
-
-
 import { useState, useEffect } from "react";
 import axios from "axios";
 
