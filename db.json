@@ -1,23 +1,32 @@
 {
-    "students": [
-      {
-        "name": "John Doe",
-        "roll_no": "A12345",
-        "id": "1",
-        "fees": 1500
-      },
-      {
-        "name": "Jane Smith",
-        "roll_no": "B54321",
-        "id": "2",
-        "fees": 1700
-      },
-      {
-        "name": "Alice Johnson",
-        "roll_no": "C98765",
-        "id": "3",
-        "fees": 1600
-      }
-    ]
-  }
-  
+  "labour": [
+    {
+      "id": "2",
+      "labour_id": "l02",
+      "labour_name": "Adi",
+      "labour_hour": 4,
+      "labour_salary": 8000
+    },
+    {
+      "id": "3",
+      "labour_id": "l03",
+      "labour_name": "Sovit",
+      "labour_hour": 8,
+      "labour_salary": 15000
+    },
+    {
+      "id": "4",
+      "labour_id": "l04",
+      "labour_name": "Hritik",
+      "labour_hour": 3,
+      "labour_salary": 5000
+    },
+    {
+      "labour_id": "l05",
+      "labour_name": "Abhi",
+      "labour_hour": "6",
+      "labour_salary": "4000",
+      "id": "5"
+    }
+  ]
+}
